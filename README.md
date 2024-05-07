@@ -12,4 +12,4 @@ node index.js
 
 Este scraper utiliza [Puppeteer](https://pptr.dev/) para extraer la información de sanciones del sitio web de la SFP, y la coloca en un archivo JSON dentro del directorio *data* del script.
 
-Los datos extraídos se pasan por la [transformadora de datos](https://gitlab.com/anticoding/ojosanciones-transformer) del proyecto para unificarlos con las otras fuentes y alimentar el [sitio web oficial](https://ojosanciones.sociedad.info) del proyecto.
+Los datos extraídos se pasan por la [transformadora de datos](https://github.com/Abrimos-info/ojosanciones-transformer) del proyecto para unificarlos con las otras fuentes y alimentar el [sitio web oficial](https://ojosanciones.sociedad.info) del proyecto.
